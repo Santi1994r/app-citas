@@ -1,0 +1,18 @@
+.containerCitas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.citasCard {
+  width: 25rem;
+}
+
+.buttonCitas {
+  margin-left: 1rem;
+}
+
+.verde {
+  background-color: green;
+}

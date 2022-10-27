@@ -1,10 +1,11 @@
 import { useState } from 'react'
+import CitasContainer from './components/CitasContainer'
 
 
 function App() {
   return (
     <>
-      <h1>Pueba santiago ruiz</h1>
+      <CitasContainer />
     </>
   )
 }
