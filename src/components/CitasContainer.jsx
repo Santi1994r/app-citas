@@ -4,7 +4,7 @@ import "../styles/citasContainer.css";
 function CitasContainer (props) {
   return(
       <>
-
+        
       </>
   )
 };
